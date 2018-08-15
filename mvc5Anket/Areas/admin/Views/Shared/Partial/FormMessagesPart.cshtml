@@ -1,0 +1,19 @@
+﻿
+
+@using mvc5Anket.Areas.admin.Models.Types;
+
+@if (ViewBag.IslemDurum == 1)
+    
+{
+    <div class="alert alert-success">
+        <h4>BAŞARILI...</h4>
+       @FormMessages.addsuccess
+     </div>
+}
+else if (ViewBag.IslemDurum == 2)
+{
+    <div class="alert alert-danger">
+         <h4>HATA!!!</h4> 
+        @FormMessages.required               
+    </div>
+}

@@ -1,0 +1,72 @@
+﻿@model mvc5Anket.Areas.admin.Models.DTO.SurveyWithOptionsVM
+
+@using (Html.BeginForm("AddSurvey", "SurveyCategory", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+                          {
+
+
+<div class="form-group">
+
+    @Html.LabelFor(x => x.SurveyCategoriesVM.SurveyName)
+    @Html.TextBoxFor(x => x.SurveyCategoriesVM.SurveyName, new { @class = "form-control", @placeholder = "Anketin başlığını giriniz" })
+    @Html.ValidationMessageFor(x => x.SurveyCategoriesVM.SurveyName)
+</div>
+
+<div>
+    @Html.LabelFor(x => x.SurveyCategoriesVM.PostImage)
+    <input type="file" multiple name="PostImage" accept="image/gif, image/jpeg, image/png" />
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.SurveyCategoriesVM.Description)
+    @Html.TextAreaFor(x => x.SurveyCategoriesVM.Description, new { @class = "form-control", @placeholder = "Anket sorusunu giriniz" })
+    @Html.ValidationMessageFor(x => x.SurveyCategoriesVM.Description)
+</div>
+
+<div style="display:inline">
+
+
+    <h1>Anket Seçenekleri</h1>
+    @if (Model != null && Model.SurveyOptionsVM != null && Model.SurveyOptionsVM.Length < 5)
+    {
+        for (int i = 0; i <= Model.SurveyOptionsVM.Length - 1; i++)
+        {
+            @Html.HiddenFor(x => x.SurveyOptionsVM[i].ID)
+            @Html.TextBoxFor(x => x.SurveyOptionsVM[i].OptionValue, new { @class = "form-control", @placeholder = "" })
+        }
+    }
+    else
+    {
+        @Html.TextBoxFor(x => x.SurveyOptionsVM[0].OptionValue, new { @class = "form-control", @placeholder = "" })
+        @Html.TextBoxFor(x => x.SurveyOptionsVM[1].OptionValue, new { @class = "form-control", @placeholder = "" })
+        @Html.TextBoxFor(x => x.SurveyOptionsVM[2].OptionValue, new { @class = "form-control", @placeholder = "" })
+        @Html.TextBoxFor(x => x.SurveyOptionsVM[3].OptionValue, new { @class = "form-control", @placeholder = "" })
+        @Html.TextBoxFor(x => x.SurveyOptionsVM[4].OptionValue, new { @class = "form-control", @placeholder = "" })
+    }
+
+
+</div>
+<div id="holder">
+
+
+</div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Anket Ekle</button>
+        <button type="reset" class="btn btn-success">Reset </button>
+
+    </div>
+@*<div class="form-group">
+    @if (Model != null)
+    {
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+    }
+    else
+    {
+        <button type="submit" class="btn btn-primary">Anket Ekle</button>
+    }
+    <button type="reset" class="btn btn-success">Reset </button>
+</div>*@
+
+}
+
+
+

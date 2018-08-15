@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared2/_SiteLayoutPage.cshtml";
+}
+
+@model mvc5Anket.Models.ORM.VM.FullSurveyVM
+@if (Model != null)
+{
+    <form method="post" action="/SiteSurvey/VoteResult">
+        <h3>@Model.SurveyCategory.SurveyName</h3>
+
+        <div class="block2">
+            <img src="~/Areas/admin/Content/Site/images/addsurvey/@Model.SurveyCategory.ImagePath" alt="" class="img_inner fleft">
+            <h3> @Html.Label("Lütfen adınızı belirtiniz:")</h3> <br/>
+            @Html.TextBoxFor(s => s.SurveyResult.ClientName)<br/><br/>
+            <div class="extra_wrapper">
+                <p><h3>@Model.SurveyCategory.Description</h3></p>
+                <br>
+                @*@foreach (var opt in Model.SurveyOptions)
+                      {
+
+                    @Html.RadioButton("OptionValue", "@opt.OptionValue")@opt.OptionValue <br />
+
+
+                       }*@
+              
+                @for (int i = 0; i < Model.SurveyOption.Count; i++)
+                {
+                    @Html.RadioButtonFor(m => m.SurveyResult.ClientChoose, Model.SurveyOption[i].OptionValue)@Model.SurveyOption[i].OptionValue<br />
+                }
+
+                <button type="submit" title="Oy Ver" class="btn-default" >Oyla</button>
+            </div>
+        </div>
+    </form>
+}
+@*Sayfayı aşağı yönlendirmek için*@
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("html, body").animate({ scrollTop: $(document).height() }, 800);
+    });
+</script>

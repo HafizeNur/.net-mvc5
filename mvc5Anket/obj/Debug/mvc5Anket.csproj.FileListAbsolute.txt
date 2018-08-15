@@ -1,0 +1,404 @@
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Webpages.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Webpages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Webpages.xml
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Webpages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+F:\anket_mvc5\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+F:\anket_mvc5\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+F:\anket_mvc5\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\anlamadım\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\2Eylül\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\8 eylül sabah\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\9eylül semih\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\HNK\semih üzerinde oynanmadı-16eylül\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\semihhhh\Değişiklik yaptığım\9eylül semih-duzgun\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\19 eylül semihhh\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+C:\Users\HaFiZe NuR\Desktop\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+W:\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\mvc5Anket.pdb
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Microsoft.Web.Infrastructure.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Razor.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\WebGrease.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Antlr3.Runtime.pdb
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\EntityFramework.SqlServer.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\Newtonsoft.Json.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Helpers.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Mvc.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Optimization.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.Razor.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Deployment.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\System.Web.WebPages.Razor.xml
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csprojResolveAssemblyReference.cache
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.dll
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.pdb
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\bin\mvc5Anket.dll.config
+D:\20eylül-son olan database\mvc5Anket\mvc5Anket\obj\Debug\mvc5Anket.csproj.CoreCompileInputs.cache

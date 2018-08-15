@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+<link href="~/Areas/admin/Content/css/bootstrap.css" rel="stylesheet" />
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Basarısız</title>
+</head>
+<body>
+    <div>
+        <div class="alert alert-danger">
+            <h4>HATA!!!</h4>
+            @mvc5Anket.Areas.admin.Models.Types.FormMessages.error
+        </div>
+    </div>
+    <a href="#" onclick="window.history.back();return false;"><img src="~/Content/images/geri.png" width="60" height="60" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    <a href="@Url.Action("Index", "Home")" title="AnaSayfa">
+        <img src="~/Content/images/anasayfa.png" />
+    </a>
+
+
+</body>
+</html>

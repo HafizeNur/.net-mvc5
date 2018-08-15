@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared2/_SiteLayoutPage.cshtml";
+}
+@model List<mvc5Anket.Models.ORM.Entity.SurveyCategory>
+
+@if (Model != null)
+{
+    <div class="container_12">
+        <div class="banners">
+            @foreach (var item in Model)
+            {
+
+                <div class="grid_4">
+                    <div class="banner">
+                        <img src="~/Areas/admin/Content/Site/images/addsurvey/@item.ImagePath" alt="">
+                        <div class="label">
+                            <div class="title">@item.SurveyName</div>
+                            <div class="price"><span></span></div>
+                            <a href="#">Ankete Git</a>
+                        </div>
+                    </div>
+                </div>
+            }
+            <div class="clear"></div>
+        </div>
+    </div>
+}
+@*Sayfayı aşağı yönlendirmek için*@
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("html, body").animate({ scrollTop: $(document).height() }, 800);
+    });
+</script>
